@@ -1,0 +1,7 @@
+A simple Arduino-based MIDI footswitch.
+The following version is use to change Programs and Banks on the NordStage2 keyboard.
+(it is possible to adapt it for other music instrument)
+
+Features PREVIOUS, NEXT and MODE buttons.
+
+
