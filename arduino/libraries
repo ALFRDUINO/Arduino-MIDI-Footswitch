@@ -1,0 +1,7 @@
+Needed Arduino libraries:
+
+OneButton.h
+Chrono.h
+MIDI.h
+TM1637Display.h
+EEPROM.h
