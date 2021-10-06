@@ -1,4 +1,4 @@
-// ALFREDO ARDIA (c) 2021
+// ALFRDUINO (c) 2021
 
 #include <OneButton.h>
 #include <Chrono.h> 
