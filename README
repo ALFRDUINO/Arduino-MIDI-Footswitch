@@ -4,4 +4,6 @@ The following version is use to change Programs and Banks on the NordStage2 keyb
 
 Features PREVIOUS, NEXT and MODE buttons.
 
+![Optional Text](../master/doc/MIDI_FOOTPEDAL INSTRUCTIONS.png)
+
 NOTE: this is just an early prototype. A more complex project involving WiFi and OSC is on the way.
